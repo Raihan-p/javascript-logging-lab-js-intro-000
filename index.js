@@ -1,1 +1,1 @@
-Console.log("I am a logger.") // get it?
+console.log("I am a logger.")
